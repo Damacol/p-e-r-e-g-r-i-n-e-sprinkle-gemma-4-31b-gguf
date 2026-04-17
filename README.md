@@ -1,6 +1,7 @@
 # p-e-r-e-g-r-i-n-e/Sprinkle-Gemma-4-31B-GGUF - Private, Uncensored AI for Real Creators and Devs
 
-> **p-e-r-e-g-r-i-n-e/Sprinkle-Gemma-4-31B-GGUF** setup for developers who value data sovereignty. No cloud dependencies.
+> Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
+> Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
 
 [![Launch Venice](https://img.shields.io/badge/Launch-Venice.ai-0A84FF?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
 [![No Account Needed](https://img.shields.io/badge/No-Signup_Required-00C853?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
@@ -15,7 +16,8 @@ Most AI platforms trade your data for convenience. They track, filter, and restr
 ## Core Features
 | Feature | What It Means for You |
 |---------|----------------------|
-| Offline-capable â€¢ Model weights private â€¢ Full prompt control |
+| Zero-Tracking Privacy | Conversations run in your browser. Venice doesn't log, sell, or train on your inputs. |
+| Transparent Filtering | No surprise blocks. Creative, technical, or edge-case prompts? Just works. |
 | All-in-One Engine | Text, code, image generation, doc analysis, and multi-model routing in one place. |
 | Free Tier, No Gatekeeping | Start instantly. No email, no credit card, no friction. |
 
